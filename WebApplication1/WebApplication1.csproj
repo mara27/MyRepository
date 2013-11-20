@@ -57,9 +57,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="andrei.jpg" />
+    <Content Include="delia.jpg" />
+    <Content Include="dragos-neacsu.jpg" />
     <Content Include="index.html" />
+    <Content Include="ionut-apopei.jpg" />
     <Content Include="script.js" />
     <Content Include="style.css" />
+    <Content Include="vasile.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
